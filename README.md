@@ -1,7 +1,7 @@
 # PARK-A-LOT
 Aiming to develop an approach and design a framework to tackle the problem of manual monitoring of the institute entrances and parking lots by automatically tracking parking occupancies and providing alternate parking spaces along with providing automated security for vehicle entrance in institution or company campuses.
 
-The Projec has been divided in TWO Modules : 
+The Project has been divided in TWO Modules : 
 
                                              1. Public Spaces
 
