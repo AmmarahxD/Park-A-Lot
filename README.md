@@ -9,7 +9,7 @@ The Project has been divided in TWO Modules :
                                              
 1) Public Spaces
 
-  Shows available parking spaces and guides you to alternate parking spaves in case of full parking lots.
+  Shows available parking spaces and guides you to alternate parking spaces in case of full parking lots.
 
   Hardware used:
 
